@@ -1,0 +1,23 @@
+{
+  "name": "currency-converter",
+  "version": "1.0.0",
+  "description": "aa",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/22K61A05A8/currency-converter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/22K61A05A8/currency-converter/issues"
+  },
+  "homepage": "https://github.com/22K61A05A8/currency-converter#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
